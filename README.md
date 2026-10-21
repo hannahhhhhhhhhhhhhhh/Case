@@ -18,7 +18,7 @@ I started with the custom PCB and made sure the lid would fit, each key is left 
 
 ### The Body 
 Once the lid is done I made the body
-*  I referenced part of a body for another CAD I made a while ago, so it was not difficult for me know know the wall thickness and general shape relatively. (Sorry I wasn't clear in my first version of this, I did not borrow the body dimensions from that design it was the specific dimensions to fit my desk)
+*  I referenced part of a body for another CAD I made a while ago, so it was not difficult for me know know the wall thickness and general shape relatively. (Sorry I wasn't clear in my first version of this README, I did not borrow the body dimensions from that design it was the specific dimensions to fit my desk)
 *  The main body fits with the lid
 
 
