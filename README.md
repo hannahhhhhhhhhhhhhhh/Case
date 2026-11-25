@@ -53,6 +53,13 @@ The case is designed to fit on my desk
 5. Connect the switches and screen to the PCB
 6. Put the lid onto the body
 
+## BOM
+| Item | Qty | Supplier | Cost/Item (CAD) | Total Cost (CAD) | Link |
+|------|-----|----------|-----------------|------------------|------|
+| Case Body| 1 | Printer at home| around $3.5 | N/A | N/A |
+| Case Lid| 1 | Printer at home| around $3.5 | N/A | N/A |
+| Key switches | 6 | YUNZII | $12.99 | $12.99 | [[link]](https://www.canadacomputers.com/en/keyboard-switches/285141/yunzii-milk-v2-linear-switch-35-pieces-per-pack-milk-v2.html) |
+| | | | **Total** | **$12.99** | |
 ## Files
 
 | File | Description |
